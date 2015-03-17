@@ -1,0 +1,1 @@
+[C,L] = wavedec(data1,5,'db4'); 
